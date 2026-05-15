@@ -171,5 +171,5 @@ This project is licensed under the MIT License.
 
 Feel free to connect or explore more projects:
 
-**GitHub:** https://github.com/Spark1805
-**LinkedIn:** https://linkedin.com/in/2005118pranavyerra  
+-**GitHub:** https://github.com/Spark1805
+-**LinkedIn:** https://linkedin.com/in/2005118pranavyerra  
