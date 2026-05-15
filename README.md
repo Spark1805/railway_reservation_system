@@ -166,3 +166,10 @@ Backend Developer — Java | Spring Boot | System Design
 ## License
 
 This project is licensed under the MIT License.
+
+## Connect
+
+Feel free to connect or explore more projects:
+
+**GitHub:** https://github.com/Spark1805
+**LinkedIn:** https://linkedin.com/in/2005118pranavyerra  
